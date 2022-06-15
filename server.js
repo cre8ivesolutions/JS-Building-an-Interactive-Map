@@ -9,6 +9,7 @@ async function main() {
             port: 3000,
             logLevel: 0,
             root: './public'
+            
         })
     })
 }
